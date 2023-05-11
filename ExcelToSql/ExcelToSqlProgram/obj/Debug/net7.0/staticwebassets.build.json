@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qDXrH366OcoSr6eTZpSN7IcLyweVpg/gbXOHgmBHuB0=",
+  "Source": "ExcelToSqlProgram",
+  "BasePath": "_content/ExcelToSqlProgram",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
