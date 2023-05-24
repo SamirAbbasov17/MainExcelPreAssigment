@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\Code Acadamy\\Other\\ExcelToSql\\ExcelToSqlProgram\\ExcelToSqlProgram.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\Code Acadamy\\ExcelToSql\\ExcelToSqlProgram\\ExcelToSqlProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\Code Acadamy\\Other\\ExcelToSql\\ExcelToSqlProgram\\ExcelToSqlProgram.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\Code Acadamy\\ExcelToSql\\ExcelToSqlProgram\\ExcelToSqlProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Code Acadamy\\Other\\ExcelToSql\\ExcelToSqlProgram\\ExcelToSqlProgram.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Code Acadamy\\ExcelToSql\\ExcelToSqlProgram\\ExcelToSqlProgram.csproj",
         "projectName": "ExcelToSqlProgram",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Code Acadamy\\Other\\ExcelToSql\\ExcelToSqlProgram\\ExcelToSqlProgram.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Code Acadamy\\ExcelToSql\\ExcelToSqlProgram\\ExcelToSqlProgram.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Code Acadamy\\Other\\ExcelToSql\\ExcelToSqlProgram\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Code Acadamy\\ExcelToSql\\ExcelToSqlProgram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,10 @@
               "target": "Package",
               "version": "[5.2.483, )"
             },
+            "MailInBlue_v2": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.5, )"
@@ -62,6 +66,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.28.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
